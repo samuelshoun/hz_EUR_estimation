@@ -8,4 +8,4 @@ This project will demonstrate and compare methods for estimating horizontal well
   <li>Later phases will add Bayesian statistical and ML-based approaches, then compare the results, implementations, and relative advantages between the approaches.
 </ul>
 
-Note that while these methods are applied to EUR/ft (assuming such EURs have been reliably estimated outside this process), the methods are equally applicable to more "hard data" parameters like 6-month cumulative produced volumes per foot.
+Note that while these methods are applied to EUR/ft (assuming such EURs have been reliably estimated outside this process), the methods are equally applicable to more "hard data" parameters like 6-month cumulative produced volume per foot.
