@@ -1,4 +1,4 @@
-# horizontal_well_EUR_estimation
+# Various Approaches to Oil & Gas Horizontal Well EUR Estimation
 
 This project will demonstrate and compare methods for estimating horizontal well EUR (estimated ultimate recovery), herein treated as EUR/ft (EUR per foot of laterally drilled wellbore). The methods will use commonly available data for individual horizontal wells in a given field, and aim to honor first principles relating to the mechanics of reservoir productivity.
 
