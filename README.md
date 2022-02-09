@@ -1,12 +1,7 @@
 # oil&gas_regression
 
-The objective of this project is to show a quick multiple non-linear regression method which uses commonly available data for individual horizontal wells in a given field, and also honors first principles relating to the distribution of error for this particular application. The method is useful for two objectives:
-<ul>
-  <li>rapid estimation of EURs for new drilling,
-  <li>hypothesis testing the influence of parameters under investigation for causal effect (example: the influence of cluster spacing on wells in a given field at various spacings, completion fluid loads, and completion sand loads), and
-  <li>baseline estimation against which to compare ML estimation methods.
-</ul>
+The objective of this project is to demonstrate and compare methods for estimating horizontal well EUR (estimated ultimate recovery), herein treated as EUR/ft (EUR per foot of laterally drilled wellbore) The methods will use commonly available data for individual horizontal wells in a given field and aim to honor first principles relating to the mechanics of reservoir productivity. 
 
-This method is straightforward and useful for engineers more comfortable with a stastical model vs. ML-based solution.
+The first method uses a frequentist approach to mixed linear & non-linear regression. This method is straightforward and useful for engineers more comfortable with a frequentist approach to statistical estimation.
 
-A later phase of this project will attempt to improve on model accuracy using ML and compare results.
+Later phases will add Bayesian statistical and ML-based approaches, then compare the results, implementations, and relative advantages between the approaches.
